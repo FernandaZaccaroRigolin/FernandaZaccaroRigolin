@@ -56,83 +56,41 @@ Ao desempenhar essas funções, desenvolvi habilidades técnicas específicas re
 
 ## Aprendendo mais
 
-### Curso: Gestão de Carreira
-Plataforma: Harvard Manager Mentor
+### Cursos na Plataforma: Udemy
+#### Oracle Certified Associate (OCA) Java 8
+#### Git e GitHub Essencial para o desenvolvedor
+#### DOCKER Completo - Do Zero ao Avançado
+#### JAVA - Tópicos Avançados
+#### Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais
+#### Angular 9 + Spring Boot 2.2 Fullstack Completo e Atualizado
+#### Java Completo 2023
+#### Padrões de Projeto em JAVA na Prática!
+#### Clean Code na Prática (Código Limpo)
+#### SOLID - Os 5 Princípios Para as Boas Práticas da POO
+#### Introdução a Microsserviços
+#### Domine Microservicos e Mensageria com Spring Cloud e Docker
 
-### Curso: Fundamentos do feedback
-Plataforma: Harvard Manager Mentor
+### Cursos na Plataforma: Coursera
+#### Front-End JavaScript Framework: Angular
+#### Princípios de Desenvolvimento Ágil de Software - ITA (Instituto Tecnológico de Aeronáutica)
+#### TDD – Desenvolvimento de Software Guiado por Testes - ITA (Instituto Tecnológico de Aeronáutica)
 
-### Curso: Interações difíceis
-Plataforma: Harvard Manager Mentor
+### Cursos na Plataforma: Pluralsight
+#### Java Persistence with Hibernate 5 Fundamentals
+#### Maven Fundamentals
+#### Java Persistence API 2.2
 
-### Curso: Negociação
-Plataforma: Harvard Manager Mentor
+### Cursos na Plataforma: Harvard Manager Mentor
+#### Gestão de Carreira
+#### Fundamentos do feedback
+#### Interações difíceis
+#### Negociação
+#### Técnicas de apresentação
+#### Raciocínio estratégico
+#### Gestão de tempo
+#### Técnicas de redação
+#### Canalizar energia e foco
 
-### Curso: Técnicas de apresentação
-Plataforma: Harvard Manager Mentor
-
-### Curso: Raciocínio estratégico
-Plataforma: Harvard Manager Mentor
-
-### Curso: Gestão de tempo
-Plataforma: Harvard Manager Mentor
-
-### Curso: Técnicas de redação
-Plataforma: Harvard Manager Mentor
-
-### Curso: Canalizar energia e foco
-Plataforma: Harvard Manager Mentor
-
-### Curso: Oracle Certified Associate (OCA) Java 8
-Plataforma: Udemy
-
-### Curso: Git e GitHub Essencial para o desenvolvedor
-Plataforma: Udemy
-
-### Curso: Front-End JavaScript Framework: Angular
-Plataforma: Coursera
-
-### Curso: Princípios de Desenvolvimento Ágil de Software
-Plataforma: Coursera -ITA (Instituto Tecnológico de Aeronáutica)
-
-### Curso: Java Persistence with Hibernate 5 Fundamentals
-Plataforma: Pluralsight
-
-### Curso: Maven Fundamentals
-Plataforma: Pluralsight
-
-### Curso: DOCKER Completo - Do Zero ao Avançado
-Plataforma: Udemy
-
-### Curso: Java Persistence API 2.2
-Plataforma: Pluralsight
-
-### Curso: JAVA - Tópicos Avançados
-Plataforma: Udemy
-
-### Curso: Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais
-Plataforma: Udemy
-
-### Curso: Angular 9 + Spring Boot 2.2 Fullstack Completo e Atualizado
-Plataforma: Udemy
-
-### Curso: TDD – Desenvolvimento de Software Guiado por Testes
-Plataforma: Courseira: ITA: Instituto Tecnológico de Aeronáutica
-
-### Curso: Java Completo 2023
-Plataforma: Udemy
-
-### Curso: Padrões de Projeto em JAVA na Prática!
-Plataforma  Udemy
-
-### Curso: Clean Code na Prática (Código Limpo)
-Plataforma  Udemy
-
-### Curso: SOLID - Os 5 Princípios Para as Boas Práticas da POO
-Plataforma  Udemy
-
-### Curso: Introdução a Microsserviços
-Plataforma  Udemy
-
-### Curso: Domine Microservicos e Mensageria com Spring Cloud e Docker
-Plataforma  Udemy
+### Cursos na Plataforma: Rocketseat
+#### Trilha Discover: Conectar, Fundamentar, Especializar
+#### Trilha Ignite: React
