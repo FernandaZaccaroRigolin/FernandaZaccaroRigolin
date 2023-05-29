@@ -54,10 +54,6 @@ Documentação: Mantive a documentação técnica atualizada, registrando altera
 
 Ao desempenhar essas funções, desenvolvi habilidades técnicas específicas relacionadas à manutenção e sustentação de sistemas, bem como a capacidade de trabalhar em um ambiente governamental, cumprindo requisitos e regulamentos específicos.
 
-## Contato
-LinkedIn: seu perfil no LinkedIn
-Email: frzrigolin@gmail.com
-
 ## Aprendendo mais
 
 ### Curso: Gestão de Carreira
