@@ -57,40 +57,40 @@ Ao desempenhar essas funções, desenvolvi habilidades técnicas específicas re
 ## Aprendendo mais
 
 ### Cursos na Plataforma: Udemy
-#### Oracle Certified Associate (OCA) Java 8
-#### Git e GitHub Essencial para o desenvolvedor
-#### DOCKER Completo - Do Zero ao Avançado
-#### JAVA - Tópicos Avançados
-#### Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais
-#### Angular 9 + Spring Boot 2.2 Fullstack Completo e Atualizado
-#### Java Completo 2023
-#### Padrões de Projeto em JAVA na Prática!
-#### Clean Code na Prática (Código Limpo)
-#### SOLID - Os 5 Princípios Para as Boas Práticas da POO
-#### Introdução a Microsserviços
-#### Domine Microservicos e Mensageria com Spring Cloud e Docker
+* Oracle Certified Associate (OCA) Java 8
+* Git e GitHub Essencial para o desenvolvedor
+* DOCKER Completo - Do Zero ao Avançado
+* JAVA - Tópicos Avançados
+* Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais
+* Angular 9 + Spring Boot 2.2 Fullstack Completo e Atualizado
+* Java Completo 2023
+* Padrões de Projeto em JAVA na Prática!
+* Clean Code na Prática (Código Limpo)
+* SOLID - Os 5 Princípios Para as Boas Práticas da POO
+* Introdução a Microsserviços
+* Domine Microservicos e Mensageria com Spring Cloud e Docker
 
 ### Cursos na Plataforma: Coursera
-#### Front-End JavaScript Framework: Angular
-#### Princípios de Desenvolvimento Ágil de Software - ITA (Instituto Tecnológico de Aeronáutica)
-#### TDD – Desenvolvimento de Software Guiado por Testes - ITA (Instituto Tecnológico de Aeronáutica)
+* Front-End JavaScript Framework: Angular
+* Princípios de Desenvolvimento Ágil de Software - ITA (Instituto Tecnológico de Aeronáutica)
+* TDD – Desenvolvimento de Software Guiado por Testes - ITA (Instituto Tecnológico de Aeronáutica)
 
 ### Cursos na Plataforma: Pluralsight
-#### Java Persistence with Hibernate 5 Fundamentals
-#### Maven Fundamentals
-#### Java Persistence API 2.2
+* Java Persistence with Hibernate 5 Fundamentals
+* Maven Fundamentals
+* Java Persistence API 2.2
 
 ### Cursos na Plataforma: Harvard Manager Mentor
-#### Gestão de Carreira
-#### Fundamentos do feedback
-#### Interações difíceis
-#### Negociação
-#### Técnicas de apresentação
-#### Raciocínio estratégico
-#### Gestão de tempo
-#### Técnicas de redação
-#### Canalizar energia e foco
+* Gestão de Carreira
+* Fundamentos do feedback
+* Interações difíceis
+* Negociação
+* Técnicas de apresentação
+* Raciocínio estratégico
+* Gestão de tempo
+* Técnicas de redação
+* Canalizar energia e foco
 
 ### Cursos na Plataforma: Rocketseat
-#### Trilha Discover: Conectar, Fundamentar, Especializar
-#### Trilha Ignite: React
+* Trilha Discover: Conectar, Fundamentar, Especializar
+* Trilha Ignite: React
