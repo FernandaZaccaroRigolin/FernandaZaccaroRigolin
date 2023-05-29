@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](www.linkedin.com/in/fernanda-zaccaro-rigolin-9b2939213)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:frzrigolin@gmail.com)
 
-### Olá, eu sou Fernanda Zaccaro Rigolin
+# Olá, eu sou Fernanda Zaccaro Rigolin
 
 ## Sobre mim
 Sou formado em Engenharia de Computação desde 2005 e tenho uma ampla experiência em desenvolvimento de software. Sou autodidata e estou constantemente aprendendo e aprimorando minhas habilidades técnicas, interpessoais, analíticas, comunicação, adaptabilidade, pensamento crítico, criativo e autogerenciamento.
@@ -26,12 +26,12 @@ Acredito que o trabalho deve ser divertido e prazeroso. Celebro as conquistas, v
 * Testes: JUnit, TDD (Desenvolvimento de Software Guiado por Testes)
 * Virtualização: Docker
 
-### Projetos
+## Projetos
 
-## Sistema de Gestão Industrial
+### Sistema de Gestão Industrial
 Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento, teste e sustentação de um sistema de gestão industrial abrangente. O objetivo era criar uma solução robusta e eficiente para atender às necessidades da indústria, com foco em automação e controle dos processos internos.
 
-# Funcionalidades Principais
+#### Funcionalidades Principais
 Durante o desenvolvimento desse sistema de gestão industrial, contribuí para a implementação de várias ferramentas e módulos essenciais, incluindo:
 Emissão de Documentos: Desenvolvi funcionalidades para emissão de documentos fiscais como Nota Fiscal Eletrônica (NFe), Nota Fiscal de Serviço Eletrônica (NFSe), Conhecimento de Transporte Eletrônico (CTe), Manifesto Eletrônico de Documentos Fiscais (MDFe) e Manifestação do Destinatário Eletrônica (MDe).
 SPED Fiscal e SPED Contribuições: Implementei recursos para atender aos requisitos de entrega das obrigações fiscais SPED Fiscal e SPED Contribuições. Isso envolveu a geração e validação dos arquivos digitais exigidos pelas autoridades fiscais.
@@ -43,7 +43,7 @@ Conciliação Bancária: Contribuí para a implementação de uma ferramenta de 
 Recursos Humanos e Integração com Relógio de Ponto: Desenvolvi um módulo de recursos humanos que permitia o gerenciamento de informações sobre os colaboradores, incluindo dados pessoais, registros de ponto, controle de escalas de trabalho e integração com relógio de ponto.
 Cálculos de Depreciação Patrimonial: Implementei uma funcionalidade para o cálculo automático de depreciação patrimonial com base nas regras e taxas estabelecidas, garantindo o controle adequado dos ativos da empresa.
 
-## Sistema Governamental da Agencia de Fomento (Cnpq)
+### Sistema Governamental da Agencia de Fomento (Cnpq)
 Na minha experiência profissional, tive a oportunidade de trabalhar na manutenção e sustentação do sistema governamental da agência de fomento Cnpq. Como parte da equipe responsável pela manutenção desse sistema crítico, desempenhei um papel fundamental na garantia do seu funcionamento contínuo e na solução de problemas técnicos. Minhas responsabilidades incluíam:
 
 Manutenção do Sistema: Realizei atividades de correção de erros, identificação e resolução de falhas, atualizações de segurança e melhorias do sistema para garantir sua estabilidade e disponibilidade.
@@ -60,83 +60,83 @@ Email: frzrigolin@gmail.com
 
 ## Aprendendo mais
 
-# Curso: Gestão de Carreira
+### Curso: Gestão de Carreira
 Plataforma: Harvard Manager Mentor
 
-# Curso: Fundamentos do feedback
+### Curso: Fundamentos do feedback
 Plataforma: Harvard Manager Mentor
 
-# Curso: Interações difíceis
+### Curso: Interações difíceis
 Plataforma: Harvard Manager Mentor
 
-# Curso: Negociação
+### Curso: Negociação
 Plataforma: Harvard Manager Mentor
 
-# Curso: Técnicas de apresentação
+### Curso: Técnicas de apresentação
 Plataforma: Harvard Manager Mentor
 
-# Curso: Raciocínio estratégico
+### Curso: Raciocínio estratégico
 Plataforma: Harvard Manager Mentor
 
-# Curso: Gestão de tempo
+### Curso: Gestão de tempo
 Plataforma: Harvard Manager Mentor
 
-# Curso: Técnicas de redação
+### Curso: Técnicas de redação
 Plataforma: Harvard Manager Mentor
 
-# Curso: Canalizar energia e foco
+### Curso: Canalizar energia e foco
 Plataforma: Harvard Manager Mentor
 
-# Curso: Oracle Certified Associate (OCA) Java 8
+### Curso: Oracle Certified Associate (OCA) Java 8
 Plataforma: Udemy
 
-# Curso: Git e GitHub Essencial para o desenvolvedor
+### Curso: Git e GitHub Essencial para o desenvolvedor
 Plataforma: Udemy
 
-# Curso: Front-End JavaScript Framework: Angular
+### Curso: Front-End JavaScript Framework: Angular
 Plataforma: Coursera
 
-# Curso: Princípios de Desenvolvimento Ágil de Software
+### Curso: Princípios de Desenvolvimento Ágil de Software
 Plataforma: Coursera -ITA (Instituto Tecnológico de Aeronáutica)
 
-# Curso: Java Persistence with Hibernate 5 Fundamentals
+### Curso: Java Persistence with Hibernate 5 Fundamentals
 Plataforma: Pluralsight
 
-# Curso: Maven Fundamentals
+### Curso: Maven Fundamentals
 Plataforma: Pluralsight
 
-# Curso: DOCKER Completo - Do Zero ao Avançado
+### Curso: DOCKER Completo - Do Zero ao Avançado
 Plataforma: Udemy
 
-# Curso: Java Persistence API 2.2
+### Curso: Java Persistence API 2.2
 Plataforma: Pluralsight
 
-# Curso: JAVA - Tópicos Avançados
+### Curso: JAVA - Tópicos Avançados
 Plataforma: Udemy
 
-# Curso: Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais
+### Curso: Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais
 Plataforma: Udemy
 
-# Curso: Angular 9 + Spring Boot 2.2 Fullstack Completo e Atualizado
+### Curso: Angular 9 + Spring Boot 2.2 Fullstack Completo e Atualizado
 Plataforma: Udemy
 
-# Curso: TDD – Desenvolvimento de Software Guiado por Testes
+### Curso: TDD – Desenvolvimento de Software Guiado por Testes
 Plataforma: Courseira: ITA: Instituto Tecnológico de Aeronáutica
 
-# Curso: Java Completo 2023
+### Curso: Java Completo 2023
 Plataforma: Udemy
 
-# Curso: Padrões de Projeto em JAVA na Prática!
+### Curso: Padrões de Projeto em JAVA na Prática!
 Plataforma  Udemy
 
-# Curso: Clean Code na Prática (Código Limpo)
+### Curso: Clean Code na Prática (Código Limpo)
 Plataforma  Udemy
 
-# Curso: SOLID - Os 5 Princípios Para as Boas Práticas da POO
+### Curso: SOLID - Os 5 Princípios Para as Boas Práticas da POO
 Plataforma  Udemy
 
-# Curso: Introdução a Microsserviços
+### Curso: Introdução a Microsserviços
 Plataforma  Udemy
 
-# Curso: Domine Microservicos e Mensageria com Spring Cloud e Docker
+### Curso: Domine Microservicos e Mensageria com Spring Cloud e Docker
 Plataforma  Udemy
