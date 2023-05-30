@@ -98,4 +98,14 @@ Ao desempenhar essas funções, desenvolvi habilidades técnicas específicas re
      * [Plataforma de Evento](https://github.com/FernandaZaccaroRigolin/EventIgniteLabReact)
      * [Portal de feedback](https://github.com/FernandaZaccaroRigolin/FeedbackWidgetReact)
      * [Plataforma de perguntas](https://github.com/FernandaZaccaroRigolin/RoquetQReact)
+     * [Lista de tarefas](https://github.com/FernandaZaccaroRigolin/ToDoReact)
+     * [Feed com interação](https://github.com/FernandaZaccaroRigolin/FeedReact)
+     * [Coffee Delivery](https://github.com/FernandaZaccaroRigolin/coffee-delivery)
+
+   
+### Cursos na Plataforma: Proway
+* Trilha Angular
+  > Projetos
+    * [Loja Virtual de Equipamentos eletrônicos](https://github.com/FernandaZaccaroRigolin/proway-computers)
+  
   
