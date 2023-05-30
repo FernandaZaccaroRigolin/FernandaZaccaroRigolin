@@ -101,11 +101,13 @@ Ao desempenhar essas funções, desenvolvi habilidades técnicas específicas re
      * [Lista de tarefas](https://github.com/FernandaZaccaroRigolin/ToDoReact)
      * [Feed com interação](https://github.com/FernandaZaccaroRigolin/FeedReact)
      * [Coffee Delivery](https://github.com/FernandaZaccaroRigolin/coffee-delivery)
+     * [Timer](https://github.com/FernandaZaccaroRigolin/IgniteTimer)
 
    
 ### Cursos na Plataforma: Proway
 * Trilha Angular
   > Projetos
+    * [Fundamentos Angular](https://github.com/FernandaZaccaroRigolin/FundamentosAngular)   
     * [Loja Virtual de Equipamentos eletrônicos](https://github.com/FernandaZaccaroRigolin/proway-computers)
   
   
