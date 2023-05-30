@@ -26,7 +26,7 @@ Acredito que o trabalho deve ser divertido e prazeroso. Celebro as conquistas, v
 * Testes: JUnit, TDD (Desenvolvimento de Software Guiado por Testes)
 * Virtualização: Docker
 
-## Projetos
+## Projetos Profissionais
 
 ### Sistema de Gestão Industrial
 Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento, teste e sustentação de um sistema de gestão industrial abrangente. O objetivo era criar uma solução robusta e eficiente para atender às necessidades da indústria, com foco em automação e controle dos processos internos.
@@ -94,3 +94,8 @@ Ao desempenhar essas funções, desenvolvi habilidades técnicas específicas re
 ### Cursos na Plataforma: Rocketseat
 * Trilha Discover: Conectar, Fundamentar, Especializar
 * Trilha Ignite: React
+  > Projetos
+     * [Plataforma de Evento](https://github.com/FernandaZaccaroRigolin/EventIgniteLabReact)
+     * [Portal de feedback](https://github.com/FernandaZaccaroRigolin/FeedbackWidgetReact)
+     * [Plataforma de perguntas](https://github.com/FernandaZaccaroRigolin/RoquetQReact)
+  
