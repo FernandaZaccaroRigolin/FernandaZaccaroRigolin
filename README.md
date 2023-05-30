@@ -109,5 +109,7 @@ Ao desempenhar essas funções, desenvolvi habilidades técnicas específicas re
   > Projetos
     * [Fundamentos Angular](https://github.com/FernandaZaccaroRigolin/FundamentosAngular)   
     * [Loja Virtual de Equipamentos eletrônicos](https://github.com/FernandaZaccaroRigolin/proway-computers)
-  
-  
+    
+* Trilha Java
+  > Projetos
+    * [Listagem de projetos com tarefas vinculadas](https://github.com/FernandaZaccaroRigolin/ToDoApp)   
