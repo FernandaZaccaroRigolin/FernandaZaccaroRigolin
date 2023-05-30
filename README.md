@@ -72,6 +72,7 @@ Ao desempenhar essas funções, desenvolvi habilidades técnicas específicas re
 
 ### Cursos na Plataforma: Coursera
 * Front-End JavaScript Framework: Angular
+  > Projeto [Menu Restaurante](https://github.com/FernandaZaccaroRigolin/RestaurantConfusion)
 * Princípios de Desenvolvimento Ágil de Software - ITA (Instituto Tecnológico de Aeronáutica)
 * TDD – Desenvolvimento de Software Guiado por Testes - ITA (Instituto Tecnológico de Aeronáutica)
 
