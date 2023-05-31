@@ -4,15 +4,14 @@
 # Olá, eu sou Fernanda Zaccaro Rigolin
 
 ## Sobre mim
-Sou formada em Engenharia de Computação desde 2005 e tenho uma ampla experiência em desenvolvimento de software. Sou autodidata e estou constantemente aprendendo e aprimorando minhas habilidades técnicas, interpessoais, analíticas, comunicação, adaptabilidade, pensamento crítico, criativo e autogerenciamento.
-Sou movida por desafios e capaz de me adaptar as adversidades e mudanças de maneira responsável, leve e otimista.
-Eu valorizo a transparência e a integridade em todas as minhas ações. Busco sempre agir de forma ética e ser honesta em todas as minhas interações. Acredito que a honestidade é fundamental para estabelecer confiança e construir relacionamentos sólidos.
-Sou uma pessoa audaciosa e gosto de desafiar os limites convencionais. Busco constantemente a inovação e não tenho medo de assumir riscos calculados. Acredito que a audácia é essencial para alcançar resultados extraordinários e superar obstáculos.
-Valorizo a confiança mútua e o respeito em todas as minhas relações. Acredito que um ambiente baseado na confiança promove a colaboração e o crescimento pessoal. Estou comprometida em construir e manter relacionamentos sólidos, onde a confiança é a base.
-Acredito na importância da liberdade de expressão e no estímulo à criatividade. Busco um ambiente que proporcione autonomia e liberdade para explorar novas ideias. Valorizo a diversidade de perspectivas e acredito que a liberdade é essencial para impulsionar a inovação e o crescimento.
-Tenho um forte espírito de equipe e acredito no poder do trabalho em conjunto. Colaboro de forma efetiva, valorizando a diversidade de habilidades e perspectivas. Estou comprometida em contribuir para o sucesso coletivo e em criar um ambiente de trabalho colaborativo e positivo.
-Valorizo a humildade e o reconhecimento de que sempre há espaço para aprendizado e crescimento. Estou aberta a receber feedback e aprender com os outros. Acredito que a modéstia é fundamental para manter uma mentalidade de crescimento contínuo e para construir relacionamentos saudáveis.
-Acredito que o trabalho deve ser divertido e prazeroso. Celebro as conquistas, valorizo o equilíbrio entre trabalho e vida pessoal e busco criar momentos de diversão em meu dia a dia. Acredito que a diversão é essencial para a criatividade, o bem-estar e o engajamento.
+<p> Sou formada em Engenharia de Computação desde 2005 e tenho uma ampla experiência em desenvolvimento de software. Sou autodidata e estou constantemente aprendendo e aprimorando minhas habilidades técnicas, interpessoais, analíticas, pensamento crítico, criativo e comunicação.</p>
+<p> Sou movida por desafios e capaz de me adaptar as adversidades e mudanças de maneira responsável, leve e otimista.</p> 
+<p> Sou uma pessoa audaciosa e gosto de desafiar os limites convencionais. Busco constantemente a inovação e não tenho medo de assumir riscos calculados. Acredito que a audácia é essencial para alcançar resultados extraordinários e superar obstáculos.</p> 
+<p> Eu valorizo a transparência e a integridade em todas as minhas ações. Acredito que a honestidade é fundamental para estabelecer confiança, construir relacionamentos sólidos.</p> 
+<p> Acredito na importância da liberdade de expressão e no estímulo à criatividade. Busco um ambiente que proporcione autonomia e liberdade para explorar novas ideias. Valorizo a diversidade de perspectivas e acredito que a liberdade é essencial para impulsionar a inovação e o crescimento.</p> 
+<p> Tenho um forte espírito de equipe e acredito no poder do trabalho em conjunto. Colaboro de forma efetiva, valorizando a diversidade de habilidades e perspectivas. Estou comprometida em contribuir para o sucesso coletivo e em criar um ambiente de trabalho colaborativo e positivo.</p> 
+<p> Valorizo a humildade e o reconhecimento de que sempre há espaço para aprendizado e crescimento. Estou aberta a receber feedback e aprender com os outros. Acredito que a modéstia é fundamental para manter uma mentalidade de crescimento contínuo e para construir relacionamentos saudáveis.</p> 
+<p> Acredito que o trabalho deve ser divertido e prazeroso. Celebro as conquistas, valorizo o equilíbrio entre trabalho e vida pessoal. credito que a diversão é essencial para a criatividade, o bem-estar e o engajamento.</p> 
 
 ## Habilidades Técnicas
 * Linguagens de Programação: Java, Delphi, JavaScript
