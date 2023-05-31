@@ -59,6 +59,10 @@ Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento,
 * Oracle Certified Associate (OCA) Java 8
 * Git e GitHub Essencial para o desenvolvedor
 * DOCKER Completo - Do Zero ao Avançado
+  > Projetos 
+    * [App Docker File](https://github.com/FernandaZaccaroRigolin/ExemploDockerApp)
+    * [App Docker Compose](https://github.com/FernandaZaccaroRigolin/ExemploDockerCompose)
+  
 * JAVA - Tópicos Avançados
 * Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais
 * Angular 9 + Spring Boot 2.2 Fullstack Completo e Atualizado
