@@ -30,28 +30,25 @@
 ### Sistema de Gestão Industrial
 Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento, teste e sustentação de um sistema de gestão industrial abrangente. O objetivo era criar uma solução robusta e eficiente para atender às necessidades da indústria, com foco em automação e controle dos processos internos.
 
-#### Funcionalidades Principais
-Durante o desenvolvimento desse sistema de gestão industrial, contribuí para a implementação de várias ferramentas e módulos essenciais, incluindo:
-Emissão de Documentos: Desenvolvi funcionalidades para emissão de documentos fiscais como Nota Fiscal Eletrônica (NFe), Nota Fiscal de Serviço Eletrônica (NFSe), Conhecimento de Transporte Eletrônico (CTe), Manifesto Eletrônico de Documentos Fiscais (MDFe) e Manifestação do Destinatário Eletrônica (MDe).
-SPED Fiscal e SPED Contribuições: Implementei recursos para atender aos requisitos de entrega das obrigações fiscais SPED Fiscal e SPED Contribuições. Isso envolveu a geração e validação dos arquivos digitais exigidos pelas autoridades fiscais.
-Ferramentas de Comissão: Desenvolvi um módulo para o cálculo e gerenciamento de comissões, permitindo o cálculo automático com base em regras personalizáveis e o acompanhamento das comissões de vendas.
-Planejamento de Produção: Contribuí para a implementação de funcionalidades de planejamento de produção, tanto para estoque quanto para demanda específica dos clientes. Isso envolveu o acompanhamento de materiais, ordens de produção, controle de estoque e otimização de recursos.
-Fluxo de Caixa: Desenvolvi uma ferramenta de fluxo de caixa para acompanhar e projetar as entradas e saídas de recursos financeiros, fornecendo uma visão clara da situação financeira da empresa e auxiliando na tomada de decisões.
-Inventário e Fechamento de Custos: Implementei recursos para realizar o controle de inventário, registrar entradas e saídas de estoque e calcular os custos de produção. Isso proporcionou uma visão precisa dos custos envolvidos nos processos produtivos.
-Conciliação Bancária: Contribuí para a implementação de uma ferramenta de conciliação bancária, permitindo a comparação e o ajuste automático das transações financeiras registradas no sistema com as transações bancárias reais.
-Recursos Humanos e Integração com Relógio de Ponto: Desenvolvi um módulo de recursos humanos que permitia o gerenciamento de informações sobre os colaboradores, incluindo dados pessoais, registros de ponto, controle de escalas de trabalho e integração com relógio de ponto.
-Cálculos de Depreciação Patrimonial: Implementei uma funcionalidade para o cálculo automático de depreciação patrimonial com base nas regras e taxas estabelecidas, garantindo o controle adequado dos ativos da empresa.
+#### Principais Funcionalidades 
+<p>Durante o desenvolvimento desse sistema de gestão industrial, contribuí para a implementação de várias ferramentas e módulos essenciais, incluindo:</p>
+<p>Emissão de Documentos: Desenvolvi funcionalidades para emissão de documentos fiscais como Nota Fiscal Eletrônica (NFe), Nota Fiscal de Serviço Eletrônica (NFSe), Conhecimento de Transporte Eletrônico (CTe), Manifesto Eletrônico de Documentos Fiscais (MDFe) e Manifestação do Destinatário Eletrônica (MDe).</p>
+<p>SPED Fiscal e SPED Contribuições: Implementei recursos para atender aos requisitos de entrega das obrigações fiscais SPED Fiscal e SPED Contribuições. Isso envolveu a geração e validação dos arquivos digitais exigidos pelas autoridades fiscais.</p>
+<p>Ferramentas de Comissão: Desenvolvi um módulo para o cálculo e gerenciamento de comissões, permitindo o cálculo automático com base em regras personalizáveis e o acompanhamento das comissões de vendas.</p>
+<p>Planejamento de Produção: Contribuí para a implementação de funcionalidades de planejamento de produção, tanto para estoque quanto para demanda específica dos clientes. Isso envolveu o acompanhamento de materiais, ordens de produção, controle de estoque e otimização de recursos.</p>
+<p>Fluxo de Caixa: Desenvolvi uma ferramenta de fluxo de caixa para acompanhar e projetar as entradas e saídas de recursos financeiros, fornecendo uma visão clara da situação financeira da empresa e auxiliando na tomada de decisões.</p>
+<p>Inventário e Fechamento de Custos: Implementei recursos para realizar o controle de inventário, registrar entradas e saídas de estoque e calcular os custos de produção. Isso proporcionou uma visão precisa dos custos envolvidos nos processos produtivos.</p>
+<p>Conciliação Bancária: Contribuí para a implementação de uma ferramenta de conciliação bancária, permitindo a comparação e o ajuste automático das transações financeiras registradas no sistema com as transações bancárias reais.</p>
+<p>Recursos Humanos e Integração com Relógio de Ponto: Desenvolvi um módulo de recursos humanos que permitia o gerenciamento de informações sobre os colaboradores, incluindo dados pessoais, registros de ponto, controle de escalas de trabalho e integração com relógio de ponto.</p>
+<p>Cálculos de Depreciação Patrimonial: Implementei uma funcionalidade para o cálculo automático de depreciação patrimonial com base nas regras e taxas estabelecidas, garantindo o controle adequado dos ativos da empresa.</p>
 
-### Sistema Governamental da Agencia de Fomento (Cnpq)
-Na minha experiência profissional, tive a oportunidade de trabalhar na manutenção e sustentação do sistema governamental da agência de fomento Cnpq. Como parte da equipe responsável pela manutenção desse sistema crítico, desempenhei um papel fundamental na garantia do seu funcionamento contínuo e na solução de problemas técnicos. Minhas responsabilidades incluíam:
-
-Manutenção do Sistema: Realizei atividades de correção de erros, identificação e resolução de falhas, atualizações de segurança e melhorias do sistema para garantir sua estabilidade e disponibilidade.
-Monitoramento e Diagnóstico: Monitorei o desempenho do sistema, identifiquei possíveis problemas ou gargalos e tomei medidas proativas para mitigar riscos e garantir o bom funcionamento do sistema.
-Atualizações e Implementações: Colaborei com a equipe de desenvolvimento para implementar novas funcionalidades, realizar atualizações e garantir a integração adequada com outros sistemas e tecnologias.
-Testes e Validação: Realizei testes funcionais, de integração e de regressão para garantir a qualidade das alterações e atualizações realizadas no sistema.
-Documentação: Mantive a documentação técnica atualizada, registrando alterações, procedimentos de configuração e soluções para problemas recorrentes, facilitando assim futuras manutenções e suporte.
-
-Ao desempenhar essas funções, desenvolvi habilidades técnicas específicas relacionadas à manutenção e sustentação de sistemas, bem como a capacidade de trabalhar em um ambiente governamental, cumprindo requisitos e regulamentos específicos.
+### Sistema Governamental da Agência de Fomento (Cnpq)
+<p>Na minha experiência profissional, tive a oportunidade de trabalhar na manutenção e sustentação do sistema governamental da agência de fomento Cnpq. Como parte da equipe responsável pela manutenção desse sistema crítico, desempenhei um papel fundamental na garantia do seu funcionamento contínuo e na solução de problemas técnicos. Minhas responsabilidades incluíam:</p>
+<p>Manutenção do Sistema: Realizei atividades de correção de erros, identificação e resolução de falhas, atualizações de segurança e melhorias do sistema para garantir sua estabilidade e disponibilidade.</p>
+<p>Atualizações e Implementações: Colaborei com a equipe de desenvolvimento para implementar novas funcionalidades, realizar atualizações e garantir a integração adequada com outros sistemas e tecnologias.</p>
+<p>Testes e Validação: Realizei testes para garantir a qualidade das alterações e atualizações realizadas no sistema.</p>
+<p>Documentação: Mantive a documentação técnica atualizada, registrando alterações, procedimentos de configuração e soluções para problemas recorrentes, facilitando assim futuras manutenções e suporte.</p>
+<p>Ao desempenhar essas funções, desenvolvi habilidades técnicas específicas relacionadas à manutenção e sustentação de sistemas, bem como a capacidade de trabalhar em um ambiente governamental, cumprindo requisitos e regulamentos específicos.</p>
 
 ## Aprendendo mais
 
