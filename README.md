@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](www.linkedin.com/in/fernanda-zaccaro-rigolin-9b2939213)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:frzrigolin@gmail.com)
-[![Currículo Online](https://img.shields.io/badge/Currículo-OnLine-<red>)](FernandaZaccaroRigolin.github.io)
+[![Currículo Online](https://img.shields.io/badge/Currículo-OnLine-<red>)](https://fernandazaccarorigolin.github.io/#home)
 
 
 
