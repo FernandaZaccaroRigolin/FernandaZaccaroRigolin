@@ -14,7 +14,7 @@
 <p> Acredito na importância da liberdade de expressão e no estímulo à criatividade. Busco um ambiente que proporcione autonomia e liberdade para explorar novas ideias. Valorizo a diversidade de perspectivas e acredito que a liberdade é essencial para impulsionar a inovação e o crescimento.</p> 
 <p> Tenho um forte espírito de equipe e acredito no poder do trabalho em conjunto. Colaboro de forma efetiva, valorizando a diversidade de habilidades e perspectivas. Estou comprometida em contribuir para o sucesso coletivo e em criar um ambiente de trabalho colaborativo e positivo.</p> 
 <p> Valorizo a humildade e o reconhecimento de que sempre há espaço para aprendizado e crescimento. Estou aberta a receber feedback e aprender com os outros. Acredito que a modéstia é fundamental para manter uma mentalidade de crescimento contínuo e para construir relacionamentos saudáveis.</p> 
-<p> Acredito que o trabalho deve ser divertido e prazeroso. Celebro as conquistas, valorizo o equilíbrio entre trabalho e vida pessoal. credito que a diversão é essencial para a criatividade, o bem-estar e o engajamento.</p> 
+<p> Acredito que o trabalho deve ser divertido e prazeroso. Celebro as conquistas, valorizo o equilíbrio entre trabalho e vida pessoal. Acredito que a diversão é essencial para a criatividade, o bem-estar e o engajamento.</p> 
 
 ## Habilidades Técnicas
 * Linguagens de Programação: Java, Delphi, JavaScript
