@@ -64,6 +64,7 @@ Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento,
     * [App Docker Compose](https://github.com/FernandaZaccaroRigolin/ExemploDockerCompose)
   
 * JAVA - Tópicos Avançados
+  > [Exemplos Práticos](https://github.com/FernandaZaccaroRigolin/NewFeaturesJava) 
 * Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais
 * Angular 9 + Spring Boot 2.2 Fullstack Completo e Atualizado
 * Java Completo 2023
