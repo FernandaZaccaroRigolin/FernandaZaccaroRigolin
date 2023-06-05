@@ -72,7 +72,7 @@ Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento,
   * Prestação de Serviços a Cliente 
     * [Aplicativo de Clientes (Angular)](https://github.com/FernandaZaccaroRigolin/angular-e-spring-full-stack/tree/master/clientes-app)
     * [API Java - Clientes](https://github.com/FernandaZaccaroRigolin/angular-e-spring-full-stack/tree/master/clientes)
-* Agendamento 
+  * Agendamento 
     * [Aplicativo de Agenda (Angular)](https://github.com/FernandaZaccaroRigolin/angular-e-spring-full-stack/tree/master/agenda-app)
     * [API Java - Agenda](https://github.com/FernandaZaccaroRigolin/angular-e-spring-full-stack/tree/master/agenda-api)
 * Java Completo 2023
