@@ -66,6 +66,7 @@ Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento,
 * JAVA - Tópicos Avançados
   > [Exemplos Práticos](https://github.com/FernandaZaccaroRigolin/NewFeaturesJava) 
 * Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais
+  > [Exemplos Práticos](https://github.com/FernandaZaccaroRigolin/curso-spring-boot-especialista)
 * Angular 9 + Spring Boot 2.2 Fullstack Completo e Atualizado
 * Java Completo 2023
 * Padrões de Projeto em JAVA na Prática!
