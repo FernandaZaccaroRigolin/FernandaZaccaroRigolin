@@ -68,6 +68,13 @@ Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento,
 * Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais
   > [Exemplos Práticos](https://github.com/FernandaZaccaroRigolin/curso-spring-boot-especialista)
 * Angular 9 + Spring Boot 2.2 Fullstack Completo e Atualizado
+  > Projetos
+  * Prestação de Serviços a Cliente 
+    * [Aplicativo de Clientes (Angular)](https://github.com/FernandaZaccaroRigolin/angular-e-spring-full-stack/tree/master/clientes-app)
+    * [API Java - Clientes](https://github.com/FernandaZaccaroRigolin/angular-e-spring-full-stack/tree/master/clientes)
+* Agendamento 
+    * [Aplicativo de Agenda (Angular)](https://github.com/FernandaZaccaroRigolin/angular-e-spring-full-stack/tree/master/agenda-app)
+    * [API Java - Agenda](https://github.com/FernandaZaccaroRigolin/angular-e-spring-full-stack/tree/master/agenda-api)
 * Java Completo 2023
 * Padrões de Projeto em JAVA na Prática!
 * Clean Code na Prática (Código Limpo)
