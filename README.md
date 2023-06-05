@@ -76,6 +76,7 @@ Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento,
     * [Aplicativo de Agenda (Angular)](https://github.com/FernandaZaccaroRigolin/angular-e-spring-full-stack/tree/master/agenda-app)
     * [API Java - Agenda](https://github.com/FernandaZaccaroRigolin/angular-e-spring-full-stack/tree/master/agenda-api)
 * Java Completo 2023
+  > [Exemplos Basicos Java](https://github.com/FernandaZaccaroRigolin/java-basic)  
 * Padrões de Projeto em JAVA na Prática!
 * Clean Code na Prática (Código Limpo)
 * SOLID - Os 5 Princípios Para as Boas Práticas da POO
