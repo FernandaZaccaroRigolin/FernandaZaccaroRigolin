@@ -78,6 +78,8 @@ Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento,
 * Java Completo 2023
   > [Exemplos Basicos Java](https://github.com/FernandaZaccaroRigolin/java-basic)  
   > [Conexão Jdbc - MySql](https://github.com/FernandaZaccaroRigolin/java-jdbc/tree/main)
+   
+  > [Demo-DAO-JDBC](https://github.com/FernandaZaccaroRigolin/demo-dao-jdbc)
 * Padrões de Projeto em JAVA na Prática!
 * Clean Code na Prática (Código Limpo)
 * SOLID - Os 5 Princípios Para as Boas Práticas da POO
