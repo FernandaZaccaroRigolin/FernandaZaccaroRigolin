@@ -77,6 +77,7 @@ Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento,
     * [API Java - Agenda](https://github.com/FernandaZaccaroRigolin/angular-e-spring-full-stack/tree/master/agenda-api)
 * Java Completo 2023
   > [Exemplos Basicos Java](https://github.com/FernandaZaccaroRigolin/java-basic)  
+  > [Conexão Jdbc - MySql](https://github.com/FernandaZaccaroRigolin/java-jdbc/tree/main)
 * Padrões de Projeto em JAVA na Prática!
 * Clean Code na Prática (Código Limpo)
 * SOLID - Os 5 Princípios Para as Boas Práticas da POO
