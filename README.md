@@ -87,9 +87,9 @@ Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento,
   * [SpringBoot-MongoDb](https://github.com/FernandaZaccaroRigolin/workshop-springboot2-mongodb)
   
 * Padrões de Projeto em JAVA na Prática!
-  *[Criacionais](https://github.com/FernandaZaccaroRigolin/creational-patterns)
-  *[Estruturais](https://github.com/FernandaZaccaroRigolin/estructural-patterns)
-  *[Comportamentais](https://github.com/FernandaZaccaroRigolin/behavioral-patterns)
+  * [Criacionais](https://github.com/FernandaZaccaroRigolin/creational-patterns)
+  * [Estruturais](https://github.com/FernandaZaccaroRigolin/estructural-patterns)
+  * [Comportamentais](https://github.com/FernandaZaccaroRigolin/behavioral-patterns)
 * Clean Code na Prática (Código Limpo)
 * SOLID - Os 5 Princípios Para as Boas Práticas da POO
 * Introdução a Microsserviços
