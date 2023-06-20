@@ -3,6 +3,9 @@
 [![Currículo Online](https://img.shields.io/badge/Currículo-OnLine-<red>)](https://fernandazaccarorigolin.github.io/#home)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaZaccaroRigolin&hide_progress=false)
+
+
 
 # Olá, eu sou Fernanda Zaccaro Rigolin
 
