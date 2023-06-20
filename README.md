@@ -81,6 +81,7 @@ Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento,
   * [Conexão Jdbc - MySql](https://github.com/FernandaZaccaroRigolin/java-jdbc/tree/main)
   * [Demo-DAO-JDBC](https://github.com/FernandaZaccaroRigolin/demo-dao-jdbc)
   * [SpringBoot-JPA](https://github.com/FernandaZaccaroRigolin/workshop-springboot3-jpa)
+  * [SpringBoot-MongoDb](https://github.com/FernandaZaccaroRigolin/workshop-springboot2-mongodb)
   
 * Padrões de Projeto em JAVA na Prática!
 * Clean Code na Prática (Código Limpo)
