@@ -91,6 +91,7 @@ Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento,
   * [Estruturais](https://github.com/FernandaZaccaroRigolin/estructural-patterns)
   * [Comportamentais](https://github.com/FernandaZaccaroRigolin/behavioral-patterns)
 * Clean Code na Prática (Código Limpo)
+  * [Código Limpo](https://github.com/FernandaZaccaroRigolin/cleancode)
 * SOLID - Os 5 Princípios Para as Boas Práticas da POO
 * Introdução a Microsserviços
 * Domine Microservicos e Mensageria com Spring Cloud e Docker
