@@ -94,6 +94,7 @@ Neste projeto, tive a oportunidade de trabalhar na arquitetura, desenvolvimento,
   * [Código Limpo](https://github.com/FernandaZaccaroRigolin/cleancode)
 * SOLID - Os 5 Princípios Para as Boas Práticas da POO
 * Introdução a Microsserviços
+  * [Microsserviços](https://github.com/FernandaZaccaroRigolin/hr-system-course)
 * Domine Microservicos e Mensageria com Spring Cloud e Docker
 
 ### Cursos na Plataforma: Coursera
